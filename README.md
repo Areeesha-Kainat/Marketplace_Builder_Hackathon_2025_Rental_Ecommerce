@@ -1,4 +1,4 @@
-# Marketplace-Technical-Foundation Rental E-commerce
+# Marketplace_Builder_Hackathon_2025_Rental_Ecommerce
 This repository contains two main folders: note and Documentation, each serving a distinct purpose in the context of the Marketplace Builder Hackathon 2025.
 
 ## Folders Overview
