@@ -1,12 +1,24 @@
 # Marketplace_Builder_Hackathon_2025_Rental_Ecommerce
-This repository contains two main folders: note and Documentation, each serving a distinct purpose in the context of the Marketplace Builder Hackathon 2025.
 
-## Folders Overview
-### note/
-This folder contains materials from Day 1 of the hackathon titled Laying the Foundation for Your Marketplace Journey. Here, you'll find key notes, insights, and resources from the first day of the hackathon, helping set the stage for the development and planning of a marketplace platform.
+Welcome to the **Marketplace Builder Hackathon 2025 - Rental Ecommerce** repository! This repository contains all tasks and documentation for the hackathon, organized into three folders: `day1`, `day2`, and `day3`.
 
-### Documentation/
-This folder houses the Day 2 documentation, which includes:
+##  Folder Structure
 
-PowerPoint Presentation (PPT): A detailed overview of the technical foundation planning for the Marketplace Builder Hackathon 2025.
-Snapshots: Visual representations of the planning process and key takeaways from Day 2 of the hackathon, highlighting the decisions made and technologies considered for the marketplace.
+### 1. **Day 1**
+   - Contains documentation for the tasks completed on Day 1 of the hackathon.
+   - Focus: Initial setup and foundational work for the project.
+
+### 2. **Day 2**
+   - Contains documentation for the tasks completed on Day 2 of the hackathon.
+   - Focus: Continued development and integration of additional features.
+
+### 3. **Day 3**
+   - Contains documentation and important files required for data migration and integration.
+   - Focus: Finalizing the project with advanced features and preparing for deployment.
+
+
+##  About the Project
+
+This project was developed as part of the **Marketplace Builder Hackathon 2025** to build a rental ecommerce platform. The repository is structured to document daily progress and includes essential files for smooth development and integration processes.
+
+Thank you for visiting this repository! 
