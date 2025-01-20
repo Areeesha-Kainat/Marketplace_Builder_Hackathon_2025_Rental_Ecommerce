@@ -1,6 +1,6 @@
 # Marketplace_Builder_Hackathon_2025_Rental_Ecommerce
 
-Welcome to the **Marketplace Builder Hackathon 2025 - Rental Ecommerce** repository! This repository contains all tasks and documentation for the hackathon, organized into four folders: `day1`, `day2`, `day3`, and `day4`.
+Welcome to the **Marketplace Builder Hackathon 2025 - Rental Ecommerce** repository! This repository contains all tasks and documentation for the hackathon, organized into five folders: `day1`, `day2`, `day3`, `day4`, and `day5`.
 
 ## Folder Structure
 
@@ -19,6 +19,10 @@ Welcome to the **Marketplace Builder Hackathon 2025 - Rental Ecommerce** reposit
 ### 4. **Day 4**
    - Contains the latest updates and important files, such as additional features and enhancements implemented on Day 4 of the hackathon.
    - Focus: Completion of final features and overall project refinement.
+
+### 5. **Day 5**
+   - Contains documentation and updates on testing, optimization, and deployment preparation tasks completed on Day 5 of the hackathon.
+   - Focus: Final testing, error handling, performance optimization, and preparing the marketplace for deployment.
 
 ## About the Project
 
