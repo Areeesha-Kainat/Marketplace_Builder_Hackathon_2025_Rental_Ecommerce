@@ -1,8 +1,27 @@
-# Marketplace_Builder_Hackathon_2025_Rental_Ecommerce
+# Marketplace Builder Hackathon 2025 - Rental Ecommerce 🚗
 
-Welcome to the **Marketplace Builder Hackathon 2025 - Rental Ecommerce** repository! This repository contains all tasks and documentation for the hackathon, organized into five folders: `day1`, `day2`, `day3`, `day4`, and `day5`.
+Welcome to the **Marketplace Builder Hackathon 2025 - Rental Ecommerce** repository! This project is a fully functional rental ecommerce platform designed to provide users with a seamless experience for renting cars online. Built with **Next.js**, **Tailwind CSS**,**Sanity** and **TypeScript**, this website is modern, responsive, and easy to use. The repository contains all tasks and documentation for the hackathon, organized into six folders: `day1`, `day2`, `day3`, `day4`, `day5`, and `day6`.
 
-## Folder Structure
+
+## 🌟 **Live Demo**
+Check out the live version of the website deployed on Vercel:  
+👉 [Rental E-Commerce Car Renting Website](https://rentalcarecommerce.vercel.app)  
+👉 [Admin Dashboard](https://rentalcarecommerce.vercel.app/AdminDashboard)
+
+
+## 🛠️ **Technologies Used**
+- **Frontend:**
+  - Next.js (React framework for server-side rendering).
+  - Tailwind CSS (utility-first CSS framework).
+  - TypeScript (for type-safe JavaScript).
+- **Backend:**
+  - Sanity.io (headless CMS for managing car data)..
+- **Deployment:**
+  - Vercel (for hosting and continuous deployment).
+
+
+## 📂 **Folder Structure**
+The repository is organized into six folders, each representing a day of the hackathon:
 
 ### 1. **Day 1**
    - Contains documentation for the tasks completed on Day 1 of the hackathon.
@@ -24,8 +43,11 @@ Welcome to the **Marketplace Builder Hackathon 2025 - Rental Ecommerce** reposit
    - Contains documentation and updates on testing, optimization, and deployment preparation tasks completed on Day 5 of the hackathon.
    - Focus: Final testing, error handling, performance optimization, and preparing the marketplace for deployment.
 
-## About the Project
+### 6. **Day 6**
+   - Contains documentation for the final testing and deployment tasks completed on Day 6 of the hackathon.
+   - Focus: Ensuring the project is fully functional, bug-free, and ready for live deployment.
 
-This project was developed as part of the **Marketplace Builder Hackathon 2025** to build a rental ecommerce platform. The repository is structured to document daily progress and includes essential files for smooth development and integration processes.
+
+This project was developed as part of the Marketplace Builder Hackathon 2025 to build a rental ecommerce platform. The repository is structured to document daily progress and includes essential files for smooth development and integration processes.
 
 Thank you for visiting this repository!
